@@ -1,0 +1,18 @@
+{
+ "srn": "160291137",
+ "name": "Yohaan Mohan",
+ "lfsr": {
+    "taps": [
+        15,
+        14,
+        12,
+        3
+        ],
+    "seed": "1101100101101111"
+    },
+ "keyFragment": "000010101010100111010111110010000",
+ "key": "d96f55a275721553af90",
+ "plainText": "identifier",
+ "cipherText": "b00b30fc011b733acae2"
+}
+
